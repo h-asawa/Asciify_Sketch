@@ -10,13 +10,13 @@ The project involves two main steps -> <br />
       &emsp;a) Convert the image to grayscale and invert it. <br />
       &emsp;b) Blur the resultant image using gaussian blur. This step is done because for creating sketch, we need only &emsp;&emsp; prominent features from the image. Appropriate               kernal size can be selected by trial and error. <br />
       &emsp;c) Invert the blurred image. <br />
-      &emsp;d) The final sketch can be obtained by performing bitwise division between grayscale image and inverted blurred image. <br />
+      &emsp;d) The final sketch can be obtained by performing bitwise division between grayscale image and inverted &emsp;&emsp; blurred image. <br />
       <br />
 2. Converting sketch to ascii sketch : <br />
    It involves the following steps : <br />
       &emsp;a) Resizing the image to a smaller width so that we dont end up with too large text. <br />
       &emsp;b) Creating an ascii character list arranged from darkest to lightest. <br />
-      &emsp;c) Converting to ascii sketch by getting pixel value for each pixel in image and mapping the respective ascii character together. 
+      &emsp;c) Converting to ascii sketch by getting pixel value for each pixel in image and mapping the respective ascii &emsp;&emsp; character together. 
       <br />
 ## Results 
 
