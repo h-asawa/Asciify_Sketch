@@ -24,3 +24,6 @@ Running the code for a sample image gave the following result: <br /> <br />
 ![sample](https://user-images.githubusercontent.com/83265838/174033985-373f39e4-ab95-44c6-9b20-259553c70ce8.jpg)
 ![final](https://user-images.githubusercontent.com/83265838/174034039-56157d25-05b2-4e7a-9492-c60124807550.png)
 
+## Video Demo
+
+https://user-images.githubusercontent.com/83265838/174355179-6b22c43c-5be9-461b-bd1f-d130fd3d364a.mp4
