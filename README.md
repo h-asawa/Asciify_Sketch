@@ -8,7 +8,7 @@ The project involves two main steps -> <br />
 1. Converting image to pencil sketch : <br />
    It involves the following steps : <br />
       &emsp;a) Convert the image to grayscale and invert it. <br />
-      &emsp;b) Blur the resultant image using gaussian blur. This step is done because for creating sketch, we need only prominent features from the &emsp;&emsp;image. Appropriate               kernal size can be selected by trial and error. <br />
+      &emsp;b) Blur the resultant image using gaussian blur. This step is done because for creating sketch, we need only &emsp;&emsp; prominent features from the image. Appropriate               kernal size can be selected by trial and error. <br />
       &emsp;c) Invert the blurred image. <br />
       &emsp;d) The final sketch can be obtained by performing bitwise division between grayscale image and inverted blurred image. <br />
       <br />
