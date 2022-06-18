@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/83265838/174428384-8ae87afb-1dc5-4d21-
 
 ## Resources 
 
-* [Wiki Article on ASCII Art] (https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
-* [Image to ASCII Art] (https://www.youtube.com/watch?v=v_raWlX7tZY&t=224s)
-* [How Image are stored in computer] (https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
-* [Converting Image to Sketch] (https://www.geeksforgeeks.org/convert-image-into-sketch/)
+* [Wiki Article on ASCII Art](https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles) 
+* [Image to ASCII Art](https://www.youtube.com/watch?v=v_raWlX7tZY&t=224s)
+* [How Image are stored in computer](https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
+* [Converting Image to Sketch](https://www.geeksforgeeks.org/convert-image-into-sketch/)
