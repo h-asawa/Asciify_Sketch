@@ -24,6 +24,25 @@ Running the code for a sample image gave the following result: <br /> <br />
 ![sample](https://user-images.githubusercontent.com/83265838/174033985-373f39e4-ab95-44c6-9b20-259553c70ce8.jpg)
 ![final](https://user-images.githubusercontent.com/83265838/174034039-56157d25-05b2-4e7a-9492-c60124807550.png)
 
+## Key Learnings 
+
+1. Fundamentals of Image Processing. <br />
+2. Usage of OpenCV and PIL Python libraries. <br />
+3. Sampling, scaling and transforming images to map pixels to their desired characters. <br />
+
+## Additional Task Performed 
+
+Turned ascii art into pencil sketch. 
+
 ## Video Demo
 
-https://user-images.githubusercontent.com/83265838/174355179-6b22c43c-5be9-461b-bd1f-d130fd3d364a.mp4
+https://user-images.githubusercontent.com/83265838/174428384-8ae87afb-1dc5-4d21-97b8-81b3fc3661bd.mp4
+
+<br />
+
+## Resources 
+
+* [Wiki Article on ASCII Art] (https://en.wikipedia.org/wiki/ASCII_art#Types_and_styles)
+* [Image to ASCII Art] (https://www.youtube.com/watch?v=v_raWlX7tZY&t=224s)
+* [How Image are stored in computer] (https://alekya3.medium.com/how-images-are-stored-in-a-computer-f364d11b4e93)
+* [Converting Image to Sketch] (https://www.geeksforgeeks.org/convert-image-into-sketch/)
