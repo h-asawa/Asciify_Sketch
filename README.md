@@ -3,7 +3,7 @@
 ## Description
 ASCII(American Standard Code for Information Interchange) is a common encoding format used for representing strings and text data in computers. ASCII Art is a graphic design technique which consists of pictures pierced together from the 95 printable ascii characters. In this project, we will use python and its libraries to convert images to beautiful ascii sketches.
 
-## Theory and Additional Task
+## Theory
 The project involves two main steps -> <br />
 1. Converting image to pencil sketch : <br />
    It involves the following steps : <br />
